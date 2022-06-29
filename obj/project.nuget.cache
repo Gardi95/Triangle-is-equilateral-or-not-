@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8SI6xL5eT9ryY1DsY9NqBHzU2NJfRywWMSTMvXWybLdXCie4qaLD7XrvdPgUr0T33/1ulHvr9gneebsD3PTzCQ==",
+  "success": true,
+  "projectFilePath": "D:\\C# for job\\triangle\\triangle\\triangle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MSY\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
